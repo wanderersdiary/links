@@ -29,6 +29,8 @@ You can use the [editor on GitHub](https://github.com/wanderersdiary/trails/edit
 
 [Transumanza in Italy](http://tiny.cc/transumanza)
 
+![svg](https://instagram.fblr2-1.fna.fbcdn.net/vp/30c682702cfbc6a372f66d8429fd6e47/5E41A8C6/t51.2885-15/sh0.08/e35/s640x640/71826620_2377247812591636_5301594009074369314_n.jpg?_nc_ht=instagram.fblr2-1.fna.fbcdn.net&_nc_cat=104)
+
 [Out of Eden Walk](http://tiny.cc/out-of-eden-wal)
 
 ### Support or Contact
