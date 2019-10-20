@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/wanderersdiary/trails/edit
 
 [Single Narrow Gasping Lung](http://tiny.cc/Mt-Everest) 
 
-<img src="https://user-images.githubusercontent.com/56800004/67164729-7e8a8b00-f39b-11e9-8b9f-632a6c81a5d5.jpg" alt="hi" class="inline"/>
+<img src="https://user-images.githubusercontent.com/56800004/67164729-7e8a8b00-f39b-11e9-8b9f-632a6c81a5d5.jpg"/>
 
 [Darjeeling](http://tiny.cc/darjeeling-of-the-min)
 
